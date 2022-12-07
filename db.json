@@ -1,0 +1,44 @@
+{"RENTAL": [{
+  "id":1,
+  "CompanyName": "Toyota",
+  "ModelName": "Prius",
+  "ManufacturedYear": 2009,
+  "Mileage": 20000,
+  "Price": 8000
+
+},
+{
+  "id":2,
+  "CompanyName": "MAZDA",
+  "ModelName": "MAZDA CX-5",
+  "ManufacturedYear": 2016,
+  "Mileage": 15000,
+  "Price": 1100
+},
+{
+  "id":3,
+  "CompanyName": "Honda",
+  "ModelName": "Accord",
+  "ManufacturedYear": 2012,
+  "Mileage": 35000,
+  "Price": 9500
+  
+},
+{
+  "id":4,
+  "CompanyName": "Kia",
+  "ModelName": "Telluride",
+  "ManufacturedYear": 2018,
+  "Mileage": 10000,
+  "Price": 12000
+},
+{
+  "id":5,
+  "CompanyName": "GMC",
+  "ModelName": "YUKON",
+  "ManufacturedYear": 2020,
+  "Mileage": 23000,
+  "Price": 14000
+}
+ ]
+   }
